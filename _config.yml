@@ -1,0 +1,28 @@
+name: TAGTAGTAG
+favicon: null
+layout_spectrum: 0.7808480144012719
+typography_spectrum: 0.6429634550586343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7763089565560222
+  lightness: 0.9768095288891345
+  saturation: 0.03730455203913152
+  rhythmicContrast: 0.6521623553708196
+purpose: []
